@@ -1,0 +1,13 @@
+{
+    "current_versions":{
+        "33.0.0":{
+            "latest_upg":"33.0.1",
+            "upgrade_ver":[
+                {
+                    "ver":"33.0.1",
+                    "description":"otintin update"
+                }
+            ]
+        }
+    }
+}
