@@ -1,0 +1,1 @@
+# serenelinux-update-info
