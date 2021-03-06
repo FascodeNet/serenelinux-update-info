@@ -5,7 +5,7 @@
             "upgrade_ver":[
                 {
                     "ver":"33.0.1",
-                    "description":"otintin update",
+                    "description":"xfce profile bugs fixed",
 		    "update_script":"https://fascodenet.github.io/serenelinux-update-info/updates/33.0.0_33.0.1/serenelinux-update-wizard"
                 }
             ]
