@@ -9,6 +9,16 @@
 		    "update_script":"https://fascodenet.github.io/serenelinux-update-info/updates/33.0.0_33.0.1/serenelinux-update-wizard"
                 }
             ]
+        },
+        "33.0.a":{
+            "latest_upg":"33.0.2",
+            "upgrade_ver":[
+                {
+                    "ver":"33.0.2",
+                    "description":"Change Browser and Greeter",
+		    "update_script":"https://fascodenet.github.io/serenelinux-update-info/updates/33.0.1_33.0.2/serenelinux-update-wizard"
+                }
+            ] 
         }
     }
 }
